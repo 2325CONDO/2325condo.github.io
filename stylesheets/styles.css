@@ -200,6 +200,10 @@ footer {
     margin-top: 100px;
 }
 
+.anchor {
+    color: transparent;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
