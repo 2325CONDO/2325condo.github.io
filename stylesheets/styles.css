@@ -184,6 +184,22 @@ footer {
   bottom:50px;
 }
 
+.social-icon {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+
+.icon-container {
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+.icon-container-container {
+    margin-top: 100px;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
